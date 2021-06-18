@@ -1,12 +1,12 @@
 ---
 title: noble beast | boutique BC wines
-thumbnail: "../static/uploads/buildings-and-dog.jpg"
+thumbnail: "../static/uploads/buildings-and-dog-1.jpg"
 year: "2017"
 categories:
 - Wine
 
 ---
-Thanks for support our wines
+Thanks for supporting our wines
 
 including merlot/cab and triple barrel red
 
