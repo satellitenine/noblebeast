@@ -74,12 +74,12 @@ export default {
   margin: 0 2rem;
 }
 .project {
-  width: 100%;
+  height: 100%;
   margin-bottom: 4rem;
   cursor: pointer;
 }
 .project-thumbnail {
   display: block;
-  width: 100%;
+  height: 100%;
 }
 </style>
