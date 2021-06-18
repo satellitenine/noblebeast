@@ -1,17 +1,19 @@
 <template>
   <Layout :title="$page.project.title">
     <article class="project-post">
-      <g-image
-        class="thumnail"
-        :src="$page.project.thumbnail"
-        :alt="$page.project.title"
-      />
+      
       <ProjectMeta
         :title="$page.project.title"
         :categories="$page.project.categories"
         :year="$page.project.year"
       />
       <div class="content" v-html="$page.project.content" />
+      
+      <g-image
+        class="thumnail"
+        :src="$page.project.thumbnail"
+        :alt="$page.project.title"
+      />
     </article>
   </Layout>
 </template>
