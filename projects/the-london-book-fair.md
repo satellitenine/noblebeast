@@ -6,4 +6,10 @@ categories:
 - Wine
 
 ---
-This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
+Thanks for support our wines
+
+including merlot/cab and triple barrel red
+
+and our VQA gewurztraminer
+
+we have no vintages planned
