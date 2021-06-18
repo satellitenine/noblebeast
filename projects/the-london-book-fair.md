@@ -1,6 +1,6 @@
 ---
 title: noble beast | boutique BC wines
-thumbnail: "../static/uploads/buildings-and-dog-1.jpg"
+thumbnail: "../static/uploads/buildings-and-dog-2.jpg"
 year: "2017"
 categories:
 - Wine
